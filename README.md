@@ -1,3 +1,2 @@
-# seva-iitp
-run npm install then run node app.js or npm start to run the project locally
-
+run npm install then
+run node app.js or npm start to run the project locally
